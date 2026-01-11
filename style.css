@@ -25,7 +25,7 @@ main {
 .square {
     box-sizing: border-box;
     border: 1px solid #000;
-    background-color: white;
+    background-color: #1E2939;
 }
 
 .menu {
